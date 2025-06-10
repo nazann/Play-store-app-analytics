@@ -4,7 +4,7 @@
 
 Have you ever thought about building your own iOS or Android app? If so, you've probably wondered how the app stores work and what makes an app successful.
 
-In this project, we replicate some of the analytics provided by industry tools like **App Annie** or **Sensor Tower** to answer key business questions for developers and marketers. With thousands of apps published every year, it's important to understand:
+In this project,Ireplicate some of the analytics provided by industry tools like **App Annie** or **Sensor Tower** to answer key business questions for developers and marketers. With thousands of apps published every year, it's important to understand:
 
 - How competitive different app categories are (e.g., Games, Lifestyle, Weather)
 - Which categories offer compelling opportunities based on their popularity
@@ -19,7 +19,7 @@ Understanding these insights can help developers make smarter choices in product
 
 ##  Solution
 
-Using a dataset of thousands of Android apps from the **Google Play Store**, we performed exploratory data analysis to uncover:
+Using a dataset of thousands of Android apps from the **Google Play Store**,Iperformed exploratory data analysis to uncover:
 
 - Median downloads of **free vs. paid apps**
 - Median **price per category** for paid apps
